@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+table {
+    margin: auto;
+    width: 70%;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid white;
+}
+
+th:nth-of-type(1),
+td:nth-of-type(1) {
+    background-color:darkgrey;
+}
+
+th:nth-of-type(2),
+td:nth-of-type(2) {
+    background-color:#A9F0D1;
+}
+
+th:nth-of-type(3),
+td:nth-of-type(3) {
+    background-color:#FFF7F8;
+}
+
+th:nth-of-type(4),
+td:nth-of-type(4) {
+    background-color:linen;
+}
+.signup{ background-color: #fb8500;
+width: 100px; height: 40px;
+border-radius: 6px;}
